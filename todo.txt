@@ -1,0 +1,11 @@
+
+-transparent header that follows as you scroll
+ -flex box in form of image-title-image
+
+-grid layout of clickable images
+ -when you hover over image they darken
+ -they show relevant text over image
+ -16 sounds all up (4 rows of 4)
+
+-play sound when clicked (javascript)
+ 
