@@ -1,0 +1,23 @@
+{
+  "name": "memesoundboard",
+  "version": "1.0.0",
+  "description": "Simple soundboard featuring some spicy memes. Just for fun.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanButton/Meme-Soundboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanButton/Meme-Soundboard/issues"
+  },
+  "homepage": "https://github.com/RyanButton/Meme-Soundboard#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
