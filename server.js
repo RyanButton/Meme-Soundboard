@@ -5,7 +5,6 @@ const path = require('path')
 app.use(express.static(__dirname + '/public'))
 
 app.get('/', (req,res) => {
-    res.status(200)
     res.render('public/index')
 })
 
