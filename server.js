@@ -6,7 +6,7 @@ app.use(express.static(__dirname + '/public'))
 
 app.get('/', (req,res) => {
     res.status(200)
-    res.render('public/index.html')
+    res.render('public/index')
 })
 
-app.listen(8081)
+app.listen(process.env.PORT || 8081)
