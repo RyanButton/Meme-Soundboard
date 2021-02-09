@@ -9,4 +9,4 @@ app.get('/', (req,res) => {
     res.render('public/index.html')
 })
 
-app.listen(process.env.PORT || 8081)
+app.listen(8081)
