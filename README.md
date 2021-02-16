@@ -1,5 +1,3 @@
 # Meme-Soundboard
 
-Simple soundboard featuring some spicy memes. Uses HTML, CSS, JS, and Node.js for server. Just for fun.
-
-Hosted at https://memesoundboard.herokuapp.com/
+Soundboard featuring some memes. Just for fun. This web app is currently hosted at https://memesoundboard.herokuapp.com/
